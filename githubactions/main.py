@@ -1,4 +1,4 @@
-# main.py main program
+# main.py main progra
 
 def greet(name):
     """Returns a greeting message."""
