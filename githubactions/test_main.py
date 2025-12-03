@@ -5,5 +5,5 @@ from main import greet
 def test_greet():
     assert greet("Alice") == "Hello, Alice!"
     assert greet("Bob") == "Hello, Bob!"
-    assert greet("Bob2") == "Hello, Bob2!"
+    assert greet("Bob") == "Hello, Bob2!"
 
